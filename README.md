@@ -23,3 +23,25 @@ de Jalisco.
 5. Empuja tus modificaciones a tu repositorio
 
 6. Solicita que se incluyan tus cambios (Crea un Pull Request)
+
+
+## Para generar la documentación
+
+1. Crea un entorno virtual
+
+       python3 -m venv env
+
+2. Activa el entorno virtual
+
+       . env/bin/activate
+
+3. Instala la dependencia para la documentación
+
+       pip install -e '.[doc]'
+
+4. Genera la documentación
+
+       cd docs
+       make html
+
+5. Navega a build/html/index.html
