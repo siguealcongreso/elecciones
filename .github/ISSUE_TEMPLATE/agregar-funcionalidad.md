@@ -6,10 +6,10 @@ labels: 'mejora'
 assignees: ''
 ---
 
-## Descripción
+## Descripción:
 <!-- Una descripción concisa y clara de la funcionalidad que se desea. -->
 
-## Resultado esperado
+## Resultado esperado:
 <!-- Una descripción o lista de elementos o características que la nueva funcionalidad deberá incluir. -->
 
 ## Por definir:
